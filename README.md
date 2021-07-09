@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MadanChoudhary-ctrl
+- 👋 Hi, I’m Madan Choudhary
 - 👀 I’m interested in Web and Android App Development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Professional Website Designing
 - 📫 How to reach me -> my email -> ma.linkin.park4@gmail.com
 
 <!---
